@@ -9,10 +9,8 @@ const App = () => {
     <>
     <Header/>
     <Main>
-      <Container color='#2BBBde' height='30px'>hello</Container>
-      <Container className='center greybar'>hello</Container>
     </Main>
-    <Footer></Footer>
+    <Footer/>
    </>
   )
 }

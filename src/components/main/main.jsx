@@ -1,7 +1,8 @@
-export const Main = ({children}) => {
+import { Gal } from "../main.body/body.jsx"
+export const Main = () => {
     return(
         <main>
-            {children}
+            <Gal/>
         </main>
     )
 }
